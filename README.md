@@ -1,4 +1,4 @@
-Ferris Road: Building runner game with Pygame
+Ferris Road: Building runner game for Succinct with Pygame!
 
 How to Run Ferris Road
 
